@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Rafael020703/attapp/main/config.txt",
   "Sms": "",
@@ -35,7 +35,7 @@
             "Info": "Tlsws"
         },
     {
-            "Name": "VIVO VIPER SSL",
+            "Name": "VIVO SSL",
             "FLAG": "vivo",
             "Payload": "OPTTION wss://[app_host]/ HTTP/1.2[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf]YUNO / HTTP/1.5[lf]Host: google.com.br[lf]Upgrade: TlsV1.3[lf]User-Agent: mozila/2.0(VIPERVPN 200-OK)[lf][lf]",
             "SNI": "[app_host]",
