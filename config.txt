@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "",
+  "UrlUpdate": "https://raw.githubusercontent.com/Rafael020703/attapp/main/config.txt",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "",
@@ -19,8 +19,8 @@
       "CheckUser": "",
       "ServerPort": "80",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "Rafael",
+      "PASS": "1234"
     }
   ],
   "Networks": [
